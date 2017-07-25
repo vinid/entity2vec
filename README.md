@@ -1,6 +1,6 @@
 # Code file for the entity and type representation
 
-The folder with data, can be found at:
+The folder with data, gold standard and a few already trained models, can be found [here](http://inside.disco.unimib.it/download/federico/entity2vec.tar.gz):
 
 
 File Listing:
