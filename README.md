@@ -1,5 +1,8 @@
 #Code file for the entity and type representation
 
+The folder with data, can be found at:
+
+
 File Listing:
 
 ###generate_model.py
