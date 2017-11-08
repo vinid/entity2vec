@@ -1,4 +1,4 @@
-## Code for the paper "Joint Learning of Entity and Type Embeddings for Analogical Reasoning with Entities" Federico Bianchi, Matteo Palmonari presented at Proceedings of the 1st Workshop on Natural Language for Artificial Intelligence co-located with 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)
+## Code for the paper "Joint Learning of Entity and Type Embeddings for Analogical Reasoning with Entities" Federico Bianchi and Matteo Palmonari presented at Proceedings of the 1st Workshop on Natural Language for Artificial Intelligence co-located with 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)
 
 http://ceur-ws.org/Vol-1983/
 
