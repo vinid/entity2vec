@@ -1,3 +1,10 @@
+## Code for the paper presented at Proceedings of the 1st Workshop on Natural Language for Artificial Intelligence co-located with 16th International Conference of the Italian Association for Artificial Intelligence (AI*IA 2017)
+
+Joint Learning of Entity and Type Embeddings for Analogical Reasoning with Entities57-68
+Federico Bianchi, Matteo Palmonari
+
+http://ceur-ws.org/Vol-1983/
+
 # Code file for the entity and type representation
 
 The folder with data, gold standard and a few already trained models, can be found [here](http://inside.disco.unimib.it/download/federico/entity2vec.tar.gz):
